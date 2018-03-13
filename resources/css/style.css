@@ -23,12 +23,12 @@ h1,h2,h3{
 .MainPrt h2{
   font-size: 23px;
 }
-.workflow h2{
+.wfsub h2{
   font-size: 32px;
 }
-.workflow h3{
+.wfsub h3{
   font-size: 23px;
 }
-.workflow p {
+.wfsub p {
   font-size: 14px;
 }
