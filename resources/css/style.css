@@ -20,3 +20,15 @@ h1,h2,h3{
 .workflow{
   text-align: center;
 }
+.MainPrt h2{
+  font-size: 23px;
+}
+.workflow h2{
+  font-size: 32px;
+}
+.workflow h3{
+  font-size: 23px;
+}
+.workflow p {
+  font-size: 14px;
+}
