@@ -12,23 +12,28 @@ h1,h2,h3{
 .MainPrt h1 {
   font-size: 70px;
 }
-
 .navigbtn {
   font-size: 18px;
   color: white;
 }
-.workflow{
+.MainPrt{
   text-align: center;
 }
+
 .MainPrt h2{
   font-size: 23px;
 }
-.wfsub h2{
+.workflow h2{
   font-size: 32px;
 }
-.wfsub h3{
+.workflow h3{
   font-size: 23px;
 }
 .wfsub p {
   font-size: 14px;
+}
+.footnote {
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
 }
